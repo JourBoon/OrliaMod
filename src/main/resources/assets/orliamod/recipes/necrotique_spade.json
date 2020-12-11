@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " N ",
+        " S ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "orliamod:necrotique_ingot"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "orliamod:necrotique_spade",
+        "count": 1
+    }
+}

@@ -1,0 +1,37 @@
+//ITEMS
+
+item.necrotique.name=Necrotique
+item.angelite.name=Angelite
+item.onyx.name=Onyx
+item.angelite_ingot.name=Angelite Ingot
+item.necrotique_ingot.name=Necrotique Ingot
+
+item.necrotique_helmet.name=Necrotique Helmet
+item.necrotique_chestplate.name=Necrotique Chestplate
+item.necrotique_leggings.name=Necrotique Leggings
+item.necrotique_boots.name=Necrotique Boots
+item.angelite_helmet.name=Angelite Helmet
+item.angelite_chestplate.name=Angelite Chestplate
+item.angelite_leggings.name=Angelite Leggings
+item.angelite_boots.name=Angelite Boots
+
+item.necrotique_axe.name=Necrotique Axe
+item.necrotique_pickaxe.name=Necrotique Pickaxe
+item.necrotique_spade.name=Necrotique Spade
+item.necrotique_sword.name=Necrotique Sword
+item.angelite_pickaxe.name=Angelite Pickaxe
+item.angelite_axe.name=Angelite Axe
+item.angelite_spade.name=Angelite Spade
+item.angelite_sword.name=Angelite Sword
+
+//BLOCKS
+
+tile.necrotique_ore.name=Necrotique Ore
+tile.angelite_ore.name=Angelite Ore
+tile.onyx_ore.name=Onyx Ore
+tile.cave_block.name=Cave Block
+tile.star_ore.name=Star Ore
+tile.necrotique_block.name=Necrotique Block
+tile.angelite_block.name=Angelite Block
+
+item.radar.name=Base Looker

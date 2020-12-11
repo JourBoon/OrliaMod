@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "NNN",
+        "N N",
+        "   "
+    ],
+    
+    "key":
+    {
+        "N":
+        {
+            "item": "orliamod:necrotique_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "orliamod:necrotique_helmet",
+        "count": 1
+    }
+}
