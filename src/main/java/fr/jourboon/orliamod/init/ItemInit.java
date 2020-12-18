@@ -7,6 +7,7 @@ import fr.jourboon.orliamod.objects.armor.ArmorAngelite;
 import fr.jourboon.orliamod.objects.armor.ArmorBase;
 import fr.jourboon.orliamod.objects.armor.ArmorNecrotique;
 import fr.jourboon.orliamod.objects.items.ItemBase;
+import fr.jourboon.orliamod.objects.items.ItemSusano;
 import fr.jourboon.orliamod.objects.tools.AngeliteAxe;
 import fr.jourboon.orliamod.objects.tools.AngelitePickaxe;
 import fr.jourboon.orliamod.objects.tools.AngeliteSpade;
@@ -71,4 +72,5 @@ public class ItemInit {
 	
 	public static final Item RADAR = new ItemRadar("radar");
 	
+	public static final Item SUSANO = new ItemSusano("susano");
 }
