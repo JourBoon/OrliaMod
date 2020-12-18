@@ -71,5 +71,4 @@ public class ItemInit {
 	
 	public static final Item RADAR = new ItemRadar("radar");
 	
-	public static final Item TEST = new ItemBase("test");
 }
